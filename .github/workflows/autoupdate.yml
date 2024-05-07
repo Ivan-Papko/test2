@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         step1:
-          - echo Hello world
+          - run echo Hello world
